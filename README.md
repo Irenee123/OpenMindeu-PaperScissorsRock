@@ -1,4 +1,4 @@
-# 🎮 Rock Paper Scissors AI - Complete ML Pipeline
+# 🎮 Rock Paper Scissors AI 
 
 [![ML Model](https://img.shields.io/badge/ML-TensorFlow-orange)](https://tensorflow.org/)
 [![API](https://img.shields.io/badge/API-FastAPI-009688)](https://fastapi.tiangolo.com/)
