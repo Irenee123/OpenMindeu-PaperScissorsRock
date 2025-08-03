@@ -1,11 +1,3 @@
-"""
-Load Testing Configuration and Scripts
-=====================================
-
-This module provides utilities for running comprehensive load tests
-and analyzing performance metrics for the Rock Paper Scissors AI.
-"""
-
 import subprocess
 import time
 import json
