@@ -3,10 +3,9 @@
 [![ML Model](https://img.shields.io/badge/ML-TensorFlow-orange)](https://tensorflow.org/)
 [![API](https://img.shields.io/badge/API-FastAPI-009688)](https://fastapi.tiangolo.com/)
 [![UI](https://img.shields.io/badge/UI-JavaScript-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ## 📺 Video Demo
-**YouTube Demo:** [INSERT_YOUTUBE_LINK_HERE]
+**YouTube Demo:** [[INSERT_YOUTUBE_LINK_HERE](https://youtu.be/rjkyIRutj-U)]
 
 ## 🌐 Live Deployment
 **Live URL:** [INSERT_DEPLOYMENT_URL_HERE] *(Will be available after cloud deployment)*
