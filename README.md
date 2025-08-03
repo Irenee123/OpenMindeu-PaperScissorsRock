@@ -5,7 +5,7 @@
 [![UI](https://img.shields.io/badge/UI-JavaScript-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## 📺 Video Demo
-**YouTube Demo:** [[INSERT_YOUTUBE_LINK_HERE](https://youtu.be/rjkyIRutj-U)]
+**YouTube Demo:** [[Paper_Scissor_Rock Video clarification](https://youtu.be/rjkyIRutj-U)]
 
 ## 🌐 Live Deployment
 **Live URL:** [INSERT_DEPLOYMENT_URL_HERE] *(Will be available after cloud deployment)*
