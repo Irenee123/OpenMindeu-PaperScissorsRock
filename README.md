@@ -8,7 +8,7 @@
 **YouTube Demo:** [[Paper_Scissor_Rock Video clarification](https://youtu.be/rjkyIRutj-U)]
 
 ## 🌐 Live Deployment
-**Live URL:** [INSERT_DEPLOYMENT_URL_HERE] *(Will be available after cloud deployment)*
+**Live URL:** [INSERT_DEPLOYMENT_URL_HERE]
 
 ---
 
