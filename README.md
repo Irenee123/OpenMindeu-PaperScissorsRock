@@ -14,7 +14,7 @@
 
 ## 📋 Project Description
 
-This is a **complete end-to-end Machine Learning pipeline** for **Rock Paper Scissors hand gesture classification**. The project demonstrates advanced ML engineering practices with real-time prediction, automated retraining, comprehensive evaluation metrics, and production-ready deployment capabilities.
+This is a **complete end-to-end Machine Learning pipeline** for **Rock Paper Scissors hand gesture classification**. The project demonstrates advanced ML engineering practices with real-time prediction, automated retraining and comprehensive evaluation metrics capabilities.
 
 ### 🎯 **Key Features**
 - **🤖 Advanced CNN Model** with 590K+ parameters and 94%+ accuracy
