@@ -1,0 +1,35 @@
+{
+  "model_name": "Rock Paper Scissors Classifier",
+  "version": "1.0",
+  "input_shape": [
+    150,
+    150,
+    3
+  ],
+  "classes": [
+    "paper",
+    "rock",
+    "scissors"
+  ],
+  "preprocessing": {
+    "rescale": "1./255",
+    "target_size": [
+      150,
+      150
+    ]
+  },
+  "metrics": {
+    "accuracy": 0.3249542961608775,
+    "precision": 0.3248560177591728,
+    "recall": 0.3248462562293002,
+    "f1_score": 0.32484433552678954,
+    "confusion_matrix": "[[228 230 254]\n [254 234 238]\n [237 264 249]]",
+    "per_class_metrics": {
+      "precision": "[0.31710709 0.32142857 0.33603239]",
+      "recall": "[0.32022472 0.32231405 0.332     ]",
+      "f1_score": "[0.31865828 0.3218707  0.33400402]"
+    }
+  },
+  "training_epochs": 15,
+  "total_parameters": 590019
+}

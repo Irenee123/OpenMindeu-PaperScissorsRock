@@ -1,0 +1,20 @@
+# Core machine learning and deep learning
+tensorflow==2.20.0rc0
+numpy==2.3.2
+pillow==11.3.0
+
+# Data visualization and plotting
+matplotlib==3.10.5
+
+# API and web framework
+fastapi==0.115.11
+uvicorn==0.34.0
+python-multipart==0.0.20
+
+# Optional but useful packages
+pandas
+scikit-learn
+seaborn
+
+# For model persistence (if using joblib/pickle)
+joblib
