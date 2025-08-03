@@ -8,7 +8,7 @@
 **YouTube Demo:** [[Paper_Scissor_Rock Video clarification](https://youtu.be/rjkyIRutj-U)]
 
 ## 🌐 Live Deployment
-**Live URL:** [INSERT_DEPLOYMENT_URL_HERE]
+**Live URL:** [[Live deployment URL](file:///C:/Users/HP/Desktop/summative/OpenMindeu-PaperScissorsRock/ui/index.html)]
 
 ---
 
