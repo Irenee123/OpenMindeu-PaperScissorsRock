@@ -525,12 +525,6 @@ docker-compose up -d --scale rps-ai=3
 - ✅ Nginx load balancer for scaling
 - ✅ Production-ready configuration
 
-### **Cloud Deployment** *(In Progress)*
-Planned deployment platforms:
-- **AWS EC2** with Auto Scaling
-- **Google Cloud Run** for serverless
-- **Azure Container Instances**
-- **Heroku** for rapid deployment
 
 ### **Load Testing with Locust** ✅
 ```bash
