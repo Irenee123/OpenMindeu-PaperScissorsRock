@@ -6,8 +6,6 @@ This module handles the complete retraining pipeline including:
 2. Data preprocessing of uploaded data
 3. Retraining using the existing model as pre-trained base
 
-Author: ML Student
-Date: August 2025
 """
 
 import os

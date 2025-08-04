@@ -1,0 +1,36 @@
+# Docker Compose for Rock Paper Scissors AI
+version: '3.8'
+
+services:
+  rps-ai:
+    build: .
+    ports:
+      - "8003:8003"
+    volumes:
+      - ./data:/app/data
+      - ./models:/app/models
+    environment:
+      - PYTHONPATH=/app/src
+      - PYTHONUNBUFFERED=1
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8003/"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+
+  # Load balancer for scaling tests
+  nginx:
+    image: nginx:alpine
+    ports:
+      - "80:80"
+    volumes:
+      - ./nginx.conf:/etc/nginx/nginx.conf
+    depends_on:
+      - rps-ai
+    restart: unless-stopped
+
+networks:
+  default:
+    name: rps-network
