@@ -8,7 +8,7 @@
 **YouTube Demo:** [[Paper_Scissor_Rock Video clarification](https://youtu.be/rjkyIRutj-U)]
 
 ## 🌐 Live Deployment
-**Live URL:** [[Live onrender deployment URL]((https://openmindeu-paperscissorsrock.onrender.com/))]
+**Live URL:** [[Live onrender deployment URL](https://openmindeu-paperscissorsrock.onrender.com/)]
 
 ---
 
