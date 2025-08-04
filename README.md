@@ -14,7 +14,7 @@
 ## Screenshots
 
 ### Game Interface
-![Static interface section](screenshots/Stasticc.png)
+![Static interface section](screenshots/Stasticc.jpg)
 
 ### Gameplay Demo
 ![Gameplay](screenshots/gameplay-demo.png)
