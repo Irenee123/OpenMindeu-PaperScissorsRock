@@ -14,7 +14,8 @@
 ## Screenshots
 
 ### Game Interface
-![Static interface section](screenshots/Statisticc.jpg)
+![Static interface section](screenshots/Statisticc.jpg)   ![Gameplay](screenshots/Prediction.jpg)
+
 
 ### Gameplay Demo
 ![Gameplay](screenshots/gameplay-demo.png)
