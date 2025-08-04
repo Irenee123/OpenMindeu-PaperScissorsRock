@@ -13,15 +13,12 @@
 ---
 ## Screenshots
 
-### Game Interface
-![Static interface section](screenshots/Statisticc.jpg)   ![Gameplay](screenshots/Prediction.jpg)
+### System Interface
 
+![Retraining section](screenshots/Retraining.jpg) 
 
-### Gameplay Demo
-![Gameplay](screenshots/gameplay-demo.png)
+Other pictures (Screenshots) of the system can be found in screenshots folder  
 
-### Results Screen
-![Results](screenshots/results-screen.png)
 ## 📋 Project Description
 
 This is a **complete end-to-end Machine Learning pipeline** for **Rock Paper Scissors hand gesture classification**. The project demonstrates advanced ML engineering practices with real-time prediction, automated retraining and comprehensive evaluation metrics capabilities.
