@@ -11,7 +11,16 @@
 **Live URL:** [[Live onrender deployment URL](https://openmindeu-paperscissorsrock.onrender.com/)]
 
 ---
+## Screenshots
 
+### Game Interface
+![Static interface section](screenshots/Stasticc.png)
+
+### Gameplay Demo
+![Gameplay](screenshots/gameplay-demo.png)
+
+### Results Screen
+![Results](screenshots/results-screen.png)
 ## 📋 Project Description
 
 This is a **complete end-to-end Machine Learning pipeline** for **Rock Paper Scissors hand gesture classification**. The project demonstrates advanced ML engineering practices with real-time prediction, automated retraining and comprehensive evaluation metrics capabilities.
